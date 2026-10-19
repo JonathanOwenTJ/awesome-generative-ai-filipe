@@ -784,6 +784,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
+* [Ajun Industry — RAG versus fine-tuning (Chinese guide)](https://ajun-industry.packscena.com/guides/rag-vs-fine-tuning/): Introductory reading comparing retrieval-time context with parameter updates, with hypothetical scenarios and checks for permissions, sources and evaluation.
 * [Benchmarking Hallucination Detection Methods in RAG | Towards Data Science](https://towardsdatascience.com/benchmarking-hallucination-detection-methods-in-rag-6a03c555f063/)
 * [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
 * [ragapp/ragapp](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
