@@ -1255,6 +1255,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+* [NEON DUO — Two-person dance role and identity checklist](https://a2oliteneon.xyz/guides/two-person-dance-role-mapping): Public explanatory guide distinguishing identity drift from intended dancer crossings, with a hypothetical diagnostic workflow and output-review limits; real generation and purchases are currently closed. Operator-affiliated, AI-assisted reference.
 * [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 * [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 * [Melies](https://melies.co/): All-in-one AI filmmaking software
